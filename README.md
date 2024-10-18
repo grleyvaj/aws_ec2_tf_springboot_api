@@ -1,4 +1,4 @@
-# Proyecto Spring Boot API Rest en AWS
+# Proyecto Spring Boot API Rest en AWS (EC2)
 
 ## DESCRIPCIÓN DEL PROYECTO
 En este proyecto se desarrolla una API Rest / Microservicio de Spring Boot y se despliega en infraestructura de la nube de AWS en un EC2 empleando Terraform.
