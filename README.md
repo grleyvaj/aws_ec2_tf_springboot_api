@@ -79,7 +79,7 @@ terraform apply
 ### PROBAR LA API
 
 Una vez desplegada la instancia, buscar la IP Publica 
-![Diseño sin título.png](..%2F..%2F..%2FDescargas%2FDise%C3%B1o%20sin%20t%C3%ADtulo.png)
+![aws-ec2.png](imgs%2Faws-ec2.png)
 
 Con esta IP realizar las peticiones
-![Diseño sin título (1).png](..%2F..%2F..%2FDescargas%2FDise%C3%B1o%20sin%20t%C3%ADtulo%20%281%29.png)
+![postman.png](imgs%2Fpostman.png)
