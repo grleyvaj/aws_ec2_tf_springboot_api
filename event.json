@@ -1,0 +1,9 @@
+{
+  "httpMethod": "GET",
+  "path": "/api/v1/financials/8",
+  "headers": {
+    "Content-Type": "application/json"
+  },
+  "body": null,
+  "isBase64Encoded": false
+}
